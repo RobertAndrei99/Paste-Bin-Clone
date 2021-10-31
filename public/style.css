@@ -1,0 +1,69 @@
+h1 { 
+    text-align: center;
+}
+
+.labelPaste  { 
+    margin-left: 20px;
+    display: block;
+    font-size: xx-large;
+}
+
+#pasteText { 
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 2px solid aquamarine; 
+}
+
+#expireTime {
+    display: block;
+    align-items: center;
+    margin-left: 20px;
+}
+ 
+#labelPasteTime {
+    font-size: 20px;
+}
+
+#pasteTime {
+    margin-top: 5px;
+    display: inline ;
+    font-size: 20px;
+}
+
+#pasteName {
+    font-size: 20px;
+    margin-left: 20px;
+    position: relative;
+    display: block ;    
+}
+
+#pasteTitle {
+    margin-left: 25px;
+}
+
+#pasteWriter {
+    font-size: 20px;
+    margin-left: 20px;
+    position: relative;
+    display: block ;    
+}
+
+label {
+    margin-right: 25px;
+}
+
+#submit { 
+  margin-top : 10px;
+  margin-left: 20px;
+  display: block;
+}
+
+#link {
+    text-align: center;
+    font-size: medium;
+}
+
+#linkToPaste{
+    color: rgb(0,0,205);
+
+}

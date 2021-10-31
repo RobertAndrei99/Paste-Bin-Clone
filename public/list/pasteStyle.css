@@ -1,0 +1,45 @@
+.container {
+    margin-bottom: 25px;
+}
+#linkToMain{
+    color: rgb(0,0,128) ; 
+    text-shadow: rgb(0,0,128) 0.5px 0.5px ;
+     
+}
+
+#link {
+    text-align: center;
+    font-size: medium;
+}
+
+h1 { 
+    text-align: center ;
+}
+
+#listPaste {
+    display:block;
+}
+
+#pasteName {
+    display: block;
+}
+
+#expireTime{
+    display: block;
+}
+
+#pasteWriter {
+    display: block;
+}
+
+#pasteTitle {
+    margin-left: 80px;
+}
+
+#pasteTime {
+    margin-left: 13px;
+}
+
+#pasteAuthor {
+    margin-left: 60px;
+}
